@@ -1,0 +1,4 @@
+main-class = dk.pointless.canarybasics.CanaryBasicsPlugin
+name = CanaryBasics
+author = Peter Andreasen
+version = 0.1
